@@ -13,7 +13,10 @@
 8.RUN <br/>
     php artisan serv
     
-    
+   เข้าจัดการหลังบ้าน 
+   http://localhost:8000/login 
+    user : m.nakharin@gmail.com
+    pass : 9091
     
     
     
