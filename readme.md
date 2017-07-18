@@ -1,6 +1,6 @@
 <H2>การนำไปใช้งาน</H2><br/>
 1.ดาวน์โหลดแล้วแตก zip ไฟล์ ออก <br/>
-2.นำไปวางที่ . server เรา  <br/>
+2.นำไปวางที่ server เรา <br/>
 3.config database ทีไฟล์ .env <br/>
 4.สร้างฐานข้อมูลตามที่ config ใน .env <br/>
 5.สั่ง migrate database  </br>
