@@ -5,12 +5,17 @@
 4.สร้างฐานข้อมูลตามที่ config ใน .env <br/>
 5.สั่ง migrate database  </br>
      php artisan migrate <br/>
-     
-6.สร้าง key ใหม่ <br/>
+6.สั่ง seed ข้อมูลพื้นฐาน <br/>
+     php artisan db:seed <br/>
+7.สร้าง key ใหม่ <br/>
      php artisan key:generate
      
-7.RUN <br/>
-    php artisan serve
+8.RUN <br/>
+    php artisan serv
+    
+    
+    
+    
     
     
     ระบบนี้จะคล้าย เว็บ atlaravel.com  นะครับ มีระบบหลังบ้านให้
