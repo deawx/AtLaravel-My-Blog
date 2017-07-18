@@ -12,7 +12,7 @@
 7.RUN <br/>
     php artisan serve
     
-    <br/>
+    <hr/>
     ระบบนี้จะคล้าย เว็บ atlaravel.com  นะครับ มีระบบหลังบ้านให้
     
     
